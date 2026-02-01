@@ -9,9 +9,9 @@ authors:
     orcid: "https://orcid.org/0009-0003-2200-2226"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.18444115"
+    value: "10.5281/zenodo.18447096"
 repository-code: "https://github.com/Variably-Constant/Yang-Mills-Mass-Gap-Proof"
-url: "https://zenodo.org/records/18444115"
+url: "https://zenodo.org/records/18447096"
 abstract: >-
   We prove that four-dimensional Yang-Mills quantum field theory has a
   positive mass gap Δ > 0 for all compact simple gauge groups. The proof

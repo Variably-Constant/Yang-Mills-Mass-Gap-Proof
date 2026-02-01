@@ -97,7 +97,7 @@ This proof builds upon Tadeusz Balaban's rigorous multi-scale renormalization gr
 
 If you use this work, please cite:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18444115.svg)](https://doi.org/10.5281/zenodo.18444115)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18447096.svg)](https://doi.org/10.5281/zenodo.18447096)
 
 ```bibtex
 @article{yang_mills_mass_gap_2026,
@@ -105,8 +105,8 @@ If you use this work, please cite:
   author = {Newton, Mark},
   year = {2026},
   month = {January},
-  doi = {10.5281/zenodo.18444115},
-  url = {https://doi.org/10.5281/zenodo.18444115}
+  doi = {10.5281/zenodo.18447096},
+  url = {https://doi.org/10.5281/zenodo.18447096}
 }
 ```
 

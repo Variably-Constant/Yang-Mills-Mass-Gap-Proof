@@ -8,7 +8,7 @@
 
 **Date:** January 2026 | **Version:** 1.0
 
-**DOI:** [10.5281/zenodo.18444115](https://doi.org/10.5281/zenodo.18444115)
+**DOI:** [10.5281/zenodo.18447096](https://doi.org/10.5281/zenodo.18447096)
 
 **Code:** [github.com/Variably-Constant/Yang-Mills-Mass-Gap-Proof](https://github.com/Variably-Constant/Yang-Mills-Mass-Gap-Proof)
 
