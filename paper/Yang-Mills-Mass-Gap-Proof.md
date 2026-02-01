@@ -1469,7 +1469,7 @@ The QCD scale $\Lambda_{QCD}$ sets the physical scale of the theory. Typical val
 
 [8] Creutz, M. (1980). Monte Carlo study of quantized SU(2) gauge theory. Phys. Rev. D21, 2308-2315.
 
-[9] Jaffe, A., Witten, E. (2000). Quantum Yang-Mills theory. Clay Mathematics Institute Millennium Prize Problem statement.
+[9] Jaffe, A., Witten, E. (2000). Quantum Yang-Mills theory. Problem statement.
 
 [10] Killing, W. (1888-1890). Die Zusammensetzung der stetigen endlichen Transformationsgruppen. Math. Ann.
 
@@ -11421,7 +11421,7 @@ $$\boxed{\Delta > 0}$$
 
 ### Review Articles
 
-[12] A. Jaffe and E. Witten, "Quantum Yang-Mills Theory", Clay Mathematics Institute Millennium Problem Description (2000).
+[12] A. Jaffe and E. Witten, "Quantum Yang-Mills Theory" (2000).
 
 [13] M. Creutz, "Quarks, Gluons and Lattices", Cambridge University Press (1983).
 

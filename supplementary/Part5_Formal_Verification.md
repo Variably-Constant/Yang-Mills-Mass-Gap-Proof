@@ -57,8 +57,8 @@ behaviors, and edge cases that are easy to mishandle in manual proofs.
 **Reproducibility**: A machine-verified proof can be independently checked by
 running the same code, providing absolute reproducibility.
 
-**Trust**: For a Millennium Prize problem, the highest standards of rigor are
-required. Formal verification provides an additional layer of assurance.
+**Trust**: The highest standards of rigor are required. Formal verification
+provides an additional layer of assurance.
 
 #### 1.1.3 Limitations and Scope
 

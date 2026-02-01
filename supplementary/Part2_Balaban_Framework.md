@@ -1567,7 +1567,7 @@ The mass gap implies:
 2. **Glueball Spectrum**: Massive states with m ≥ m_{gap}
 3. **Exponential Decay**: Correlations fall off as e^{-m|x|}
 
-## 5.4 Summary: Path to the Millennium Prize
+## 5.4 Summary: Path to a Complete Proof
 
 ### 5.4.1 What Balaban Achieved
 
@@ -1579,7 +1579,7 @@ Balaban's papers establish:
 
 ### 5.4.2 What Remains
 
-The Millennium Prize requires:
+A complete proof requires:
 1. **Explicit lower bound**: m_phys ≥ δ > 0 (quantitative)
 2. **Axioms verification**: Wightman axioms or OS axioms
 3. **Complete proof**: Every step rigorous and published
@@ -1652,7 +1652,7 @@ The constants throughout the proof are:
 ## Document Information
 
 **Title**: Part 2: Balaban's Rigorous Framework for Yang-Mills Theory
-**Author**: [Millennium Prize Submission]
+**Author**: Mark Newton
 **Date**: January 2026
 **Version**: 1.0
 **Line Count**: 1523 lines

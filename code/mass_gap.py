@@ -7,8 +7,8 @@ This module implements the extraction of the mass gap from Wilson loop data:
 - String tension and mass gap determination
 - Scaling analysis with lattice spacing
 
-The mass gap Delta is the fundamental quantity needed for the
-Millennium Prize Yang-Mills problem.
+The mass gap Delta is the fundamental quantity for the Yang-Mills
+mass gap problem.
 
 Author: Yang-Mills Mass Gap Project
 Date: January 2026

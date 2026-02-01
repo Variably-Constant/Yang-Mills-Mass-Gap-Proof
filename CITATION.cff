@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Proof of Mass Gap Existence in Yang-Mills Theory: A Solution to the Clay Mathematics Institute Millennium Prize Problem"
+title: "Proof of Mass Gap Existence in Yang-Mills Theory"
 message: "If you use this work, please cite it using these metadata."
 type: article
 authors:
@@ -26,7 +26,6 @@ abstract: >-
 keywords:
   - Yang-Mills theory
   - mass gap
-  - Millennium Prize Problems
   - quantum field theory
   - lattice gauge theory
   - renormalization group

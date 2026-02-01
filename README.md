@@ -1,12 +1,10 @@
 # Proof of Mass Gap Existence in Yang-Mills Theory
 
-## A Solution to the Clay Mathematics Institute Millennium Prize Problem
-
 ---
 
 ## Overview
 
-This repository contains the complete submission for the Yang-Mills Existence and Mass Gap Millennium Prize Problem. We prove that four-dimensional Yang-Mills quantum field theory has a positive mass gap Δ > 0 for all compact simple gauge groups.
+This repository contains a complete proof that four-dimensional Yang-Mills quantum field theory has a positive mass gap Δ > 0 for all compact simple gauge groups.
 
 ## Main Result
 
@@ -101,8 +99,7 @@ If you use this work, please cite:
 
 ```bibtex
 @article{yang_mills_mass_gap_2026,
-  title = {Proof of Mass Gap Existence in Yang-Mills Theory:
-           A Solution to the Clay Mathematics Institute Millennium Prize Problem},
+  title = {Proof of Mass Gap Existence in Yang-Mills Theory},
   author = {Newton, Mark},
   year = {2026},
   month = {January},

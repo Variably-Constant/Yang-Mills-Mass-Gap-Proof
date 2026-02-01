@@ -1109,7 +1109,7 @@ Our results establish:
 
 4. **Theorem established:** σ > 0 ⟹ Δ > 0 with rigorous proof
 
-**Significance for Millennium Problem:**
+**Significance:**
 
 The string tension measurements provide independent confirmation of the mass gap
 through the fundamental connection between confinement and spectral properties.
@@ -1124,8 +1124,7 @@ two complementary approaches:
 2. String tension implication: Δ ≥ 2.3√σ ≈ 1590 MeV
 
 The consistency of these results (agreement within 7%) provides strong evidence
-that Yang-Mills theory possesses a mass gap, addressing a key component of the
-Millennium Prize Problem.
+that Yang-Mills theory possesses a mass gap.
 
 ---
 
