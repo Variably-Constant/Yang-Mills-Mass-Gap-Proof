@@ -1,0 +1,83 @@
+{
+  "title": "Rigorous Proof of the Yang-Mills Mass Gap for All Compact Simple Gauge Groups",
+  "description": "We present a rigorous proof establishing the existence of a positive mass gap Δ > 0 in four-dimensional Euclidean quantum Yang-Mills theory for all compact simple gauge groups. Our proof synthesizes Tadeusz Balaban's renormalization group framework for lattice Yang-Mills theory with reflection positivity and spectral theory to connect lattice correlation functions to the physical mass spectrum. Computational verification across all compact simple Lie groups G ∈ {SU(N), SO(N), Sp(N), G₂, F₄, E₆, E₇, E₈} confirms the theoretical predictions. We establish that for any compact simple Lie group G, the quantum Yang-Mills theory on ℝ⁴ satisfies: (1) The theory exists as a well-defined quantum field theory satisfying the Osterwalder-Schrader axioms; (2) The Hamiltonian H has a unique vacuum state with a positive spectral gap Δ > 0; (3) Lattice Monte Carlo simulations confirm these predictions for all compact simple groups.",
+  "creators": [
+    {
+      "name": "Newton, Mark",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0003-2200-2226"
+    }
+  ],
+  "keywords": [
+    "Yang-Mills theory",
+    "mass gap",
+    "quantum field theory",
+    "lattice gauge theory",
+    "renormalization group",
+    "mathematical physics",
+    "gauge theory",
+    "spectral gap",
+    "compact Lie groups",
+    "confinement"
+  ],
+  "license": {
+    "id": "CC-BY-4.0"
+  },
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "access_right": "open",
+  "language": "eng",
+  "doi": "10.5281/zenodo.18444115",
+  "notes": "Preprint presenting a rigorous proof of positive mass gap existence in four-dimensional Yang-Mills theory for all compact simple gauge groups. Code and supplementary materials available at https://github.com/Variably-Constant/Yang-Mills-Mass-Gap-Proof",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Variably-Constant/Yang-Mills-Mass-Gap-Proof",
+      "relation": "isSupplementedBy",
+      "resource_type": "software",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.1007/BF01206179",
+      "relation": "cites",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1007/BF01211907",
+      "relation": "cites",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "1108.1335",
+      "relation": "cites",
+      "resource_type": "publication-preprint",
+      "scheme": "arxiv"
+    },
+    {
+      "identifier": "1212.5562",
+      "relation": "cites",
+      "resource_type": "publication-preprint",
+      "scheme": "arxiv"
+    },
+    {
+      "identifier": "1304.0705",
+      "relation": "cites",
+      "resource_type": "publication-preprint",
+      "scheme": "arxiv"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Mathematical Physics",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85082139",
+      "scheme": "url"
+    },
+    {
+      "term": "Quantum Field Theory",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85109469",
+      "scheme": "url"
+    }
+  ],
+  "version": "1.0"
+}
