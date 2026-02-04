@@ -966,7 +966,7 @@ Plotting √σ vs Δ for measured groups:
 
 $$\frac{\Delta}{\sqrt{\sigma}} = 2.33 \pm 0.11$$
 
-This remarkable universality supports the picture of glueballs as closed flux loops
+This universality supports the picture of glueballs as closed flux loops
 with size determined by the string tension.
 
 ### 4.4.3 Theoretical Interpretation

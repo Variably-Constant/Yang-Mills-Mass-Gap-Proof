@@ -2,8 +2,7 @@
 
 ## Comprehensive Lattice QCD Simulations for All Compact Simple Gauge Groups
 
-**Document Version:** 1.0.0
-**Verification Date:** January 2026
+**Date:** January 2026
 **Total Tests Conducted:** 48
 **Tests Passed:** 48/48 (100%)
 

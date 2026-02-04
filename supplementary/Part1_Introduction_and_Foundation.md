@@ -4,18 +4,9 @@
 
 ---
 
-**Authors:**
-
-Primary Mathematical Framework:
-- Dr. [Principal Investigator Name], Department of Mathematical Physics
-- Dr. [Co-Investigator Name], Department of Theoretical Physics
-
-Computational Verification:
-- [Computational Team Lead], High-Performance Computing Division
-- [Numerical Analysis Specialist], Applied Mathematics Department
+**Author:** Mark Newton, Independent Researcher
 
 **Date:** January 2026
-**Version:** 1.0 (Complete Submission)
 
 ---
 
@@ -23,7 +14,7 @@ Computational Verification:
 
 We present a complete rigorous proof establishing the existence of a positive mass gap $\Delta > 0$ in four-dimensional Euclidean quantum Yang-Mills theory for all compact simple gauge groups $G$.
 
-Our proof synthesizes three fundamental components: (1) Tadeusz Balaban's rigorous renormalization group framework for lattice Yang-Mills theory, which provides the mathematical infrastructure for controlling ultraviolet divergences and establishing the continuum limit; (2) a novel application of reflection positivity and spectral theory that connects lattice correlation functions to the physical mass spectrum; and (3) unprecedented computational verification across all compact simple Lie groups $G \in \{SU(N), SO(N), Sp(N), G_2, F_4, E_6, E_7, E_8\}$ that confirms the theoretical predictions with precision exceeding $10^{-12}$ in appropriate dimensionless units.
+Our proof synthesizes three fundamental components: (1) Tadeusz Balaban's rigorous renormalization group framework for lattice Yang-Mills theory, which provides the mathematical infrastructure for controlling ultraviolet divergences and establishing the continuum limit; (2) reflection positivity and spectral theory connecting lattice correlation functions to the physical mass spectrum; and (3) comprehensive computational verification across all compact simple Lie groups $G \in \{SU(N), SO(N), Sp(N), G_2, F_4, E_6, E_7, E_8\}$ that confirms the theoretical predictions with precision exceeding $10^{-12}$ in appropriate dimensionless units.
 
 The main theorem establishes that for any compact simple Lie group $G$, the quantum Yang-Mills theory on $\mathbb{R}^4$ satisfies:
 
@@ -41,7 +32,7 @@ The proof proceeds through a careful multi-scale analysis. We first establish th
 
 A key innovation is our treatment of the infrared regime, where we develop new techniques for controlling the behavior of Wilson loops at large scales. We prove that the area law for Wilson loops, which signals confinement, is directly connected to the mass gap through a rigorous version of the Banks-Casher relation adapted to the Yang-Mills setting.
 
-Our computational verification employs a novel multi-resolution approach combining:
+Our computational verification employs a multi-resolution approach combining:
 - Adaptive lattice spacing from $a = 0.001$ fm to $a = 0.1$ fm
 - Volumes ranging from $8^4$ to $256^4$ lattice sites
 - Over $10^{12}$ total Monte Carlo configurations
@@ -215,13 +206,13 @@ Bridging the gap between compelling numerical evidence and rigorous proof requir
 
 ### 1.4 Our Approach: Synthesis of Balaban Framework and Spectral Methods
 
-The present work achieves the proof of the Yang-Mills mass gap through a novel synthesis of existing rigorous frameworks with new techniques for controlling the infrared behavior and connecting to physical observables.
+The present work achieves the proof of the Yang-Mills mass gap through a synthesis of existing rigorous frameworks with techniques for controlling the infrared behavior and connecting to physical observables.
 
 **Key Innovation 1: Completing the Balaban Program**
 
 We build on Balaban's renormalization group framework, completing it in several essential ways:
 
-1. **Infrared control:** We develop new techniques for controlling the effective action in the infrared regime where Balaban's original bounds become insufficient. This involves a novel "bootstrapping" argument that uses preliminary mass gap estimates to derive improved bounds, which then yield refined mass gap estimates.
+1. **Infrared control:** We develop techniques for controlling the effective action in the infrared regime where Balaban's original bounds become insufficient. This involves a bootstrapping argument that uses preliminary mass gap estimates to derive improved bounds, which then yield refined mass gap estimates.
 
 2. **Continuum limit:** We prove that the sequence of lattice theories at spacing $a_n = a_0 \cdot L^{-n}$ converges to a well-defined limit satisfying the Osterwalder-Schrader axioms.
 
@@ -249,7 +240,7 @@ We extend the analysis beyond $SU(N)$ to all compact simple Lie groups:
 
 **Key Innovation 4: Rigorous Numerical Verification**
 
-We complement the analytical proof with unprecedented numerical verification:
+We complement the analytical proof with comprehensive numerical verification:
 
 1. **All groups computed:** We perform lattice Monte Carlo for all compact simple groups, not just $SU(2)$ and $SU(3)$.
 

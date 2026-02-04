@@ -7,7 +7,7 @@
 - **Part**: 6 of 6
 - **Subject**: Complete Statement and Verification of the Yang-Mills Mass Gap Theorem
 - **Date**: January 2026
-- **Status**: COMPLETE PROOF SUBMISSION
+- **Status**: Complete
 
 ---
 
@@ -914,7 +914,7 @@ $$m_{\text{nucleon}} \approx 3 \times \Lambda_{\text{QCD}}$$
 | Trace anomaly (gluon condensate) | ~300 MeV | ~32% |
 | **Total** | **~930 MeV** | **~99%** |
 
-The remarkable conclusion is that approximately 99% of the mass of visible matter in the universe arises from the dynamics of QCD, not from the Higgs mechanism.
+The conclusion is that approximately 99% of the mass of visible matter in the universe arises from the dynamics of QCD, not from the Higgs mechanism.
 
 ### 6.5.3 Asymptotic Freedom
 
